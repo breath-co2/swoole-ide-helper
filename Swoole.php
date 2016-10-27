@@ -1,15 +1,4 @@
 <?php
-exit;
-function msgpack_pack($data)
-{
-    return "";
-}
-
-function msgpack_unpack($data)
-{
-    return [];
-}
-
 /**
  * Swoole Develop Structure
  *
